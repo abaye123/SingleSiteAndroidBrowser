@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_starting">ההורדה מתחילה...</string>
+    <string name="whatsapp_not_install">נראה שWhatsApp לא מותקן</string>
+    <string name="blocked_is_address">הכתובת חסומה</string>
+    <string name="not_ssl_by_netfree">טיפ: נראה שלא מותקנת תעודת אבטחה של נטפרי</string>
+    <string name="not_ssl_by_netspark">טיפ: נראה שלא מותקנת תעודת אבטחה של אתרוג/רימון</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_starting">download is starting...</string>
+    <string name="whatsapp_not_install">WhatsApp is not installed</string>
+    <string name="blocked_is_address">Blocked address</string>
+    <string name="not_ssl_by_netfree">Tip: It appears that a Netfree security certificate is not installed</string>
+    <string name="not_ssl_by_netspark">Tip: Ethrog/Remon security certificate does not appear to be installed</string>
+</resources>
